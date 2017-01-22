@@ -7,6 +7,7 @@ All functions are called from main.py
 
 ### Prerequisites
 • SimpleITK --> Homebrew installation, on command line type:  < brew install SimpleITK > 
+
 • OpenCV    --> http://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/
 
 ### Prepare DataSet Folders as Depicted Below:
