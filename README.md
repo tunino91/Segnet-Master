@@ -16,18 +16,24 @@ Each video file read, belongs to one patient.
     
 ### How to Run Registration:
 1) On command line, switch to your downloaded folder where all .py files are present.
+
 2) type: >>python main.py     
+
 3) All of your registered images are stored in RegistrationResults folder which is created automatically by the script.
 
 ### Brief Description of the Algorithm:
 First, the video files are read frame by frame and each frame is registered with the middle frame.
+
 Transformation is rigid since the structure of the eye vessels will not change from one frame to another.
 
 
 ### Used Methods 
 • Transformation Type: Rigid
+
 • Interpolation: Cubic
+
 • Similarity Function: Normalized Cross-Corrolation
+
 • Optimizer: Will be determined..
 
 
