@@ -1,7 +1,7 @@
 # Segnet-Master
 This repository is dedicated for implementation of SegNet in Keras for Eye Vessel Segmentation. Each video file read, belongs to one patient in the dataset. Registration is the first step necessary towards preprocessing of the dataset. 
 
-## Registration
+## Step 1: Registration
 
 All functions are called from main.py 
 
