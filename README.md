@@ -17,7 +17,7 @@ Each video file read, belongs to one patient.
 ### How to Run Registration:
 1) On command line, switch to your downloaded folder where all .py files are present.
 
-2) type: >>python main.py     
+2) type: >> python main.py     
 
 3) All of your registered images are stored in RegistrationResults folder which is created automatically by the script.
 
